@@ -1,0 +1,40 @@
+# Dart & Flutter related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.vscode/
+.idea/
+.metadata
+pubspec.lock
+
+# Build outputs
+build/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Firebase
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+
+# Generated files
+*.iml
+*.log
+*.lock
+*.tmp
+*.swp
+*.DS_Store
+.dart_tool/
+
+# Coverage
+coverage/
+
+# Other
+*.keystore

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "222112296797",
+    "firebase_url": "https://energie-b0834-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "energie-b0834",
+    "storage_bucket": "energie-b0834.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222112296797:android:3bb1069c94dfa0aeeb82b4",
+        "android_client_info": {
+          "package_name": "com.example.energie_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfd_VKJBrTQl9D_AnRjNNYXNtWOt1Wqoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
